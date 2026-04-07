@@ -2,10 +2,12 @@
 
 Sabe quando você pergunta "o que vamos comer?" e a resposta é sempre "não sei", "qualquer coisa" ou "escolhe você"? Criei esse app pra acabar com esse impasse de casal e de grupo de amigos. A ideia é simples: você joga as opções lá e deixa a sorte decidir. Assim, ninguém fica com o peso de ter que escolher sozinho.
 
+🔗 **[Acesse o App Online Aqui](https://o-decididor.vercel.app/)**
+
 ---
 
 <div align="center">
-  <img src="./src/assets/Home.png" width="65%" alt="Demonstração Home" style="vertical-align: middle;" />
+  <img src="./src/assets/Home.png" width="30%" alt="Demonstração Home" style="vertical-align: middle;" />
   <img src="./src/assets/home-lista.png" width="30%" alt="Demonstração Home com a lista preenchida" style="vertical-align: middle;" />
   <img src="./src/assets/resultado.png" width="30%" alt="Demonstração resultado do sorteio" style="vertical-align: middle;" />
   <img src="./src/assets/historico-mobile.png" width="30%" alt="Demonstração do Histórico no mobile" style="vertical-align: middle;" />
@@ -38,26 +40,25 @@ Essa foi a parte mais importante do meu aprendizado neste projeto:
 
 ## Como rodar na sua máquina:
 
-# Clone o projeto
+**Clone o projeto**
 
 `git clone https://github.com/Felipe-C-Gonzalez/o-decididor.git`
 
-# Entre na pasta
+**Entre na pasta**
 
 `cd o-decididor`
 
-# Instale as dependências
+**Instale as dependências**
 
 `npm install`
 
-# Rode o projeto
+**Rode o projeto**
 
 `npm run dev`
 
 ---
 
 ## Desenvolvido por
-git init
 **Felipe C. Gonzalez**
 
 - [LinkedIn](https://linkedin.com/in/felipecgonzalez)
