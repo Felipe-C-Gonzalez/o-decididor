@@ -135,7 +135,7 @@ export default function Home() {
         winner={winner}
         onClose={() => setWinner(null)}
         onReset={handleReset}
-        wathasAppLink={whatsAppLink}
+        whatsAppLink={whatsAppLink}
       />
     </section>
   );
